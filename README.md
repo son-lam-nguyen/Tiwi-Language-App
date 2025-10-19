@@ -110,10 +110,6 @@ Let Gradle sync and accept any SDK prompts.
 
 ### 🧭 References:
 
-
-
-https://chatgpt.com/
-
 https://codepen.io/ckutay/pen/zxvpmLN
 
 https://www.geeksforgeeks.org/android/how-to-create-menu-folder-menu-file-in-android-studio/
