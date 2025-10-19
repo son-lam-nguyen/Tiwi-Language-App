@@ -108,21 +108,5 @@ Let Gradle sync and accept any SDK prompts.
 
 ### 
 
-### 🧭 References:
 
-https://codepen.io/ckutay/pen/zxvpmLN
-
-https://www.geeksforgeeks.org/android/how-to-create-menu-folder-menu-file-in-android-studio/
-
-https://developer.android.com/develop/ui/views/components/radiobutton
-
-https://developer.android.com/develop/ui/views/components/menus
-
-https://www.geeksforgeeks.org/android/audio-recorder-in-android-with-example/
-
-https://developer.android.com/develop/connectivity/bluetooth/ble-audio/audio-recording
-
-https://developer.android.com/reference/android/media/AudioRecord
-
-https://developer.android.com/media/platform/av-capture
 
