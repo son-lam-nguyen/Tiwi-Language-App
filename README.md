@@ -96,8 +96,7 @@ Sentence detail for Student role: record/stop, play Teacher's Recording, play Yo
 
 
 
-1\. Clone the repo using SourceTree or Git: git clone https://hit226\_semester1\_2025-admin@bitbucket.org/hit238-tiwiapp2/hit238-tiwiapp2.bitbucket.io.git
-
+1\. Clone the repo using SourceTree or Git
 2\. Open in Android Studio → Open an existing project → select this folder.
 
 Let Gradle sync and accept any SDK prompts.
