@@ -1,0 +1,20 @@
+{
+  "language": "Tiwi",
+  "sentences": [
+    {"id":"a1","text":"yanamurli","english":"animal","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a2","text":"waliwalinga","english":"ant","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a3","text":"tukwatukuni","english":"bandicoot","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a4","text":"arlamini","english":"barramundi","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a5","text":"wurrinjimparni","english":"bat (insect-eating)","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a6","text":"tarnikini","english":"fruit bat","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a7","text":"jarrangini","english":"buffalo","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a8","text":"ngaringa","english":"black cockatoo","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a9","text":"kurlamikimi","english":"owl","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a10","text":"tiruwati","english":"bream (fish)","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a11","text":"pamatikimi","english":"angelfish","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a12","text":"yiwarla","english":"buffalo","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a13","text":"jijiyini","english":"small bird","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a14","text":"marimpunyini","english":"bird","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a15","text":"jinaringa","english":"black-headed python","teacherRecordingUrl":null,"studentRecordings":[]}
+  ]
+}

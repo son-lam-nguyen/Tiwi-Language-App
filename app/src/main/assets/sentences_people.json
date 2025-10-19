@@ -1,0 +1,21 @@
+{
+  "language": "Tiwi",
+  "sentences": [
+    {"id":"p1","text":"yinkurti / arikulani","english":"adult man","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p2","text":"yinkurlinga / arikulanga","english":"adult woman","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p3","text":"numwariyaka","english":"baby boy","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p4","text":"wangatunga","english":"baby girl","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p5","text":"yirrukurrunyini","english":"adolescent boy","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p6","text":"aliyinga","english":"adolescent girl","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p7","text":"mamanta","english":"friends","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p8","text":"ngirimipi","english":"family","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p9","text":"nginari","english":"aunt","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p10","text":"yuwuni","english":"Brother","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p11","text":"ngimpi","english":"cousin","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p12","text":"ngawa","english":"we/us","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p13","text":"ngiya","english":"I/Me","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p14","text":"nuwila","english":"you all","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p15","text":"parlini / piluwarti","english":"ancestors","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p16","text":"awirankuwi","english":"young people","teacherRecordingUrl":null,"studentRecordings":[]}
+  ]
+}

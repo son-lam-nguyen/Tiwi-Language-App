@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TiwiLanguageApp</string>
+    <string name="help">Help</string>
+    <string name="phrasebook_title">Phrasebook</string>
+    <string name="phrasebook_intro">Common English phrases with Tiwi translations. Tap play where available to hear pronunciation.</string>
+    <string name="phrasebook_play_content_description">Play pronunciation</string>
+    <string name="phrasebook_audio_unavailable">Audio not available for this phrase yet.</string>
+    <string name="cultural_videos">Cultural Videos</string>
+    <string name="help_title">Help &amp; Tips</string>
+
+</resources>

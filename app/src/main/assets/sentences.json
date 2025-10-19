@@ -1,0 +1,26 @@
+{
+  "language": "Tiwi",
+  "sentences": [
+    {"id":"s1","text":"mijingali","english":"attractive","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"s2","text":"marruwampurliya","english":"unfairly","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"s3","text":"akituwumi","english":"asleep","teacherRecordingUrl":null,"studentRecordings":[]},
+    { "id": "s4",  "text": "angumarri","english": "associated, be","teacherRecordingUrl": null, "studentRecordings": [] },
+    { "id": "s5",  "text": "kayartirri","english": "Bamboo","teacherRecordingUrl": null, "studentRecordings": [] },
+    { "id": "s6",  "text": "awirankuwi","english": "young people","teacherRecordingUrl": null, "studentRecordings": [] },
+    { "id": "s7",  "text": "purnaya","english": "yesterday","teacherRecordingUrl": null, "studentRecordings": [] },
+    { "id": "s8",  "text": "ktokwampinari","english": "early morning","teacherRecordingUrl": null, "studentRecordings": [] },
+    { "id": "s9",  "text": "karrarluputi","english": "earthquake","teacherRecordingUrl": null, "studentRecordings": [] },
+    { "id": "s10", "text": "wamwarri","english": "eat little bit","teacherRecordingUrl": null, "studentRecordings": [] },
+    { "id": "s11", "text": "mukuwarnti","english": "eat together ","teacherRecordingUrl": null, "studentRecordings": [] },
+    { "id": "s12", "text": "aringaminga","english": "eldest daughter","teacherRecordingUrl": null, "studentRecordings": [] },
+    { "id": "s13", "text": "taringamini","english": "eldest son","teacherRecordingUrl": null, "studentRecordings": [] },
+    { "id": "s14", "text": "angini jurrimumi arimi japinamimi","english": "belectric light","teacherRecordingUrl": null, "studentRecordings": [] },
+    { "id": "s15", "text": "arliranga","english": "embarrassed","teacherRecordingUrl": null, "studentRecordings": [] },
+    { "id": "s16", "text": "kukwa","english": "underground water","teacherRecordingUrl": null, "studentRecordings": [] },
+    { "id": "s17", "text": "munaga","english": "claw (animal)","teacherRecordingUrl": null, "studentRecordings": [] },
+    { "id": "s18", "text": "milimika","english": "circle","teacherRecordingUrl": null, "studentRecordings": [] },
+    { "id": "s19", "text": "kiriparri","english": "clap (hands)","teacherRecordingUrl": null, "studentRecordings": [] },
+    { "id": "s20", "text": "malarlani","english": "clean","teacherRecordingUrl": null, "studentRecordings": [] },
+    { "id": "s21", "text": "malarlani2","english": "clean","teacherRecordingUrl": null, "studentRecordings": [] }
+  ]
+}

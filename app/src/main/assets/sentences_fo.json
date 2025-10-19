@@ -1,0 +1,20 @@
+{
+  "language": "Tiwi",
+  "sentences": [
+    {"id":"f1","text":"mirripaka","english":"beer/alcohol","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"f2","text":"mangumunga","english":"brackish water","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"f3","text":"kitartawini","english":"bread","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"f4","text":"pinyama / pinyawini","english":"bush apple","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"f5","text":"purtukwi","english":"bush honey","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"f6","text":"jamulanjini","english":"bush honey","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"f7","text":"yimpara","english":"bush honey","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"f8","text":"majimpani","english":"blood","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"f9","text":"majimpanari","english":"blushing/bloodshot","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"f10","text":"maninguwuli","english":"blood (alt. form)","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"f11","text":"majimpanari","english":"blushing (related to red)","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"f12","text":"pijikiti","english":"biscuit","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"f13","text":"tiruwati","english":"bream","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"f14","text":"pijuwaluwi","english":"beautiful (used also for food/appearance)","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"f15","text":"yiminga","english":"craving for bush tucker","teacherRecordingUrl":null,"studentRecordings":[]}
+  ]
+}

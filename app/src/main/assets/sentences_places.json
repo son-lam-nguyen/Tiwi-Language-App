@@ -1,0 +1,20 @@
+{
+  "language": "Tiwi",
+  "sentences": [
+    {"id":"p1","text":"wuta","english":"and/here","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p2","text":"tingata","english":"beach","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p3","text":"ran","english":"around","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p4","text":"kilinjini","english":"billabong","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p5","text":"tarntuwu","english":"boat","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p6","text":"kapala","english":"boat","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p7","text":"kirawarri","english":"big boat/barge","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p8","text":"ampiling","english":"ambulance","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p9","text":"warringilaka","english":"bloodwood tree place","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p10","text":"mirnamirniyarri","english":"before (time)","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p11","text":"aringampi","english":"before (place)","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p12","text":"ngampu","english":"at","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p13","text":"pirntuwa","english":"between","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p14","text":"aringampurra","english":"beyond","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"p15","text":"warta","english":"bush","teacherRecordingUrl":null,"studentRecordings":[]}
+  ]
+}

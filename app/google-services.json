@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706888521121",
+    "project_id": "tiwilanguageapp",
+    "storage_bucket": "tiwilanguageapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706888521121:android:e5d46770fcefb95f03e7e0",
+        "android_client_info": {
+          "package_name": "com.example.tiwilanguageapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXDeBNAvsMyzvvi9UjfhnMHaqvCnh2I50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

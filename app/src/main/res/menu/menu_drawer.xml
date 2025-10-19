@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home"  android:title="Home"  android:icon="@drawable/ic_home_24" />
+    <item android:id="@+id/nav_share"   android:title="Share App" android:icon="@drawable/ic_share_24" />
+    <item android:id="@+id/nav_help"  android:title="Help"  android:icon="@drawable/ic_quiz_24" />
+    <item android:id="@+id/nav_donation"  android:title="Maka a Donation"  android:icon="@drawable/ic_donation_24" />
+    <item android:id="@+id/nav_about"  android:title="About"  android:icon="@drawable/ic_about_24" />
+    <item android:id="@+id/nav_favorites" android:title="Practice List" android:icon="@android:drawable/btn_star_big_on" />
+
+</menu>

@@ -1,0 +1,20 @@
+{
+  "language": "Tiwi",
+  "sentences": [
+    {"id":"a1","text":"warta","english":"bush/tree","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a2","text":"kurlugi","english":"bark","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a3","text":"mirrikipirla","english":"bark (alt.)","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a4","text":"mipurra","english":"bark","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a5","text":"yarirringa","english":"armband (plant fibre)","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a6","text":"mayili","english":"banksia","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a7","text":"jawarri","english":"banyan tree","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a8","text":"pirlaminga","english":"billy goat plum","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a9","text":"wilijinga","english":"billycan (metal pot, often for bush cooking)","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a10","text":"kilupi","english":"billycan","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a11","text":"tiruwati","english":"bream (fish + food plant connections)","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a12","text":"tuwunya","english":"ashes","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a13","text":"kuwuni","english":"dead ashes","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a14","text":"wulika","english":"arm ornament (plant material)","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"a15","text":"yimuna","english":"beetle","teacherRecordingUrl":null,"studentRecordings":[]}
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "language": "Tiwi",
+  "sentences": [
+    {"id":"c1","text":"tuniwunga / turnuwa","english":"black","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"c2","text":"majimpanari","english":"red/bloodshot","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"c3","text":"kartukunari","english":"brown","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"c4","text":"wurrinyinari","english":"brown (alt.)","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"c5","text":"yimirrituniwuni","english":"black-haired","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"c6","text":"tuningini","english":"blue-tongue (linked to color)","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"c7","text":"manpurruwi","english":"white clay (for painting)","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"c8","text":"jarrikarlani","english":"birthmark (color marking)","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"c9","text":"mankwamunga","english":"bitter (color-related to taste)","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"c10","text":"majimpani","english":"blood (red)","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"c11","text":"jiringa","english":"bad (darkness association)","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"c12","text":"yinkirlati","english":"blind (color loss)","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"c13","text":"yilaruwu","english":"below (shadow/dark)","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"c14","text":"yinkirlatuwi","english":"blind people (no color vision)","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"c15","text":"yinkirlatinga","english":"blind person","teacherRecordingUrl":null,"studentRecordings":[]}
+  ]
+}

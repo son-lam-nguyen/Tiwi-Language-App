@@ -1,0 +1,21 @@
+{
+  "language": "Tiwi",
+  "sentences": [
+    {"id":"h1","text":"jirti","english":"no good/sick","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"h2","text":"makirri","english":"afraid","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"h3","text":"janawurti","english":"weak/tired","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"h4","text":"pirringawuni","english":"weak/tired","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"h5","text":"paruwani","english":"hungry","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"h6","text":"pupuni","english":"sleep","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"h7","text":"ampirimakirri / arimakirri","english":"scared","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"h8","text":"pitipita","english":"stomach","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"h9","text":"yiminga","english":"breath/pulse","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"h10","text":"purnikapa","english":"body","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"h11","text":"mamakuwi","english":"sick person","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"h12","text":"nampirimi","english":"trembling","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"h13","text":"kalampara","english":"sweating","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"h14","text":"ngarikilini","english":"sweating","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"h15","text":"purlingiya","english":"nausea","teacherRecordingUrl":null,"studentRecordings":[]},
+    {"id":"h16","text":"nampirimi","english":"trembling","teacherRecordingUrl":null,"studentRecordings":[]}
+  ]
+}
